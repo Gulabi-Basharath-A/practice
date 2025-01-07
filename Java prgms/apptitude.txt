@@ -1,0 +1,25 @@
+Apptitude
+
+1.Their are 120 chickens and goats in a fam. Thier are 70more chickens than goat in the farm.Find how many goats are in farm?
+x+y=120
+70 more chickens than goat
+x chicken
+y=120-x goat 
+
+x=70+120-x // 1st x kandu pidikurom
+
+x=190-x
+
+2x=190
+x=190/2
+x=95
+total number of chicken is 95
+y=120-x // x=95
+y=120-95
+y=25
+their are 25 goats in the farm
+
+2.
+
+
+
